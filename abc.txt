@@ -4,6 +4,6 @@ One more commit in master
 idkfjfjj
 1
 2
-3
+I modified line 3
 This line has been added on remote
 This will demonstrate the fetch. 
